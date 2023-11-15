@@ -15,6 +15,10 @@
   "keywords": [],
   "author": "Yücel Albayrak",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/albayrrak/crop-background-image"
+  },
   "devDependencies": {
     "@types/jest": "^29.5.8",
     "jest": "^29.7.0",
